@@ -1,0 +1,8 @@
+label_data/
+sar_data/
+optical_data/
+processed/
+checkpoints/
+btp_env/
+__pycache__/
+demo_output/
